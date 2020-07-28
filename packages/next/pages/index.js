@@ -3,9 +3,8 @@ import Head from 'next/head'
 export default function Home() {
   return (
     <div className="container">
-      Start testing next
-    
-
+      Start testing lerna repositories
+      
       <style jsx>{`
         .container {
           min-height: 100vh;

@@ -5,7 +5,7 @@
     "lerna": "^3.22.1"
   },
   "scripts": {
-    "mypublish": "lerna publish --contents ./packages/packageA --yes --skip-npm",
+    "mypublish": "lerna publish --contents ./packages/next --yes --skip-npm",
     "postmypublish": "git push && git push --tags"
   }
 }
