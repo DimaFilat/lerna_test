@@ -3,8 +3,7 @@ import Head from 'next/head'
 export default function Home() {
   return (
     <div className="container">
-      Special for lerna test
-    
+      Special for lerna test ???
 
       <style jsx>{`
         .container {
