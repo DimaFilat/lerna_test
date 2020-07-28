@@ -7,6 +7,10 @@
     "build": "next build",
     "start": "next start"
   },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:DimaFilat/next.js.git"
+  },
   "dependencies": {
     "next": "9.4.4",
     "react": "16.13.1",
