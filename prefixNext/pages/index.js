@@ -3,7 +3,7 @@ import Head from 'next/head'
 export default function Home() {
   return (
     <div className="container">
-      Start testing next
+     trying git subtree
     
 
       <style jsx>{`
