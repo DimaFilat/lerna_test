@@ -3,7 +3,7 @@ import Head from 'next/head'
 export default function Home() {
   return (
     <div className="container">
-     trying git subtree
+     from cloning repo
     
 
       <style jsx>{`
